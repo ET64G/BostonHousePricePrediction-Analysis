@@ -52,4 +52,3 @@ Models are evaluated using regression metrics such as:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-## Project Structure
